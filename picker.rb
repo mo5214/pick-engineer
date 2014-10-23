@@ -16,5 +16,5 @@ def pick_engineer
     puts nameList[rand(nameList.length)] ## fetch random name and print it.  
   end
   
-  pick_engineer # use the method :D  
+  pick_engineer # use the method 
     
